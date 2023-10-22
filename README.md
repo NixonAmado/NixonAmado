@@ -11,9 +11,9 @@
 
 - 📫 Como contactarme **NixonAmado00@gmail.com**
 
-- 📄 Know about my experiences [Mi pasión por la programación comenzó a mis 14 años, donde aprendí Python y Django, pero por otras circunstancias termine enfocándome en el desarrollo frontend con js, y termine por olvidar lo aprendido con django. Actualmente estoy estudiando en Campus, un sitio especializado en formar "campers" en habilidades tecnológicas y competencias del mañana.](Mi pasión por la programación comenzó a mis 14 años, donde aprendí Python y Django, pero por otras circunstancias termine enfocándome en el desarrollo frontend con js, y termine por olvidar lo aprendido con django. Actualmente estoy estudiando en Campus, un sitio especializado en formar "campers" en habilidades tecnológicas y competencias del mañana.)
+- 📄 Acerca de mis experiencias **Mi pasión por la programación comenzó a mis 14 años, donde aprendí Python y Django, pero por otras circunstancias termine enfocándome en el desarrollo frontend con js, y termine por olvidar lo aprendido con django. Actualmente estoy estudiando en Campus, un sitio especializado en formar "campers" en habilidades tecnológicas y competencias del mañana**
 
-- ⚡ Dato curioso: **me gusta mucho el futbol y sacarle provecho a las personas aprendiendo lo máximo de ellas.**
+- - ⚡ Dato curioso: **me gusta mucho el futbol y sacarle provecho a las personas aprendiendo lo máximo de ellas.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
