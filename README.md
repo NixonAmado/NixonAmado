@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nixonamado" alt="nixonamado" /></a> </p>
 
-- 🌱 Backend junior en proceso **C#,.Net, EntityFramework, Sql, MongoDb**
+- 🌱 Backend junior en proceso **C#,.Net, EntityFramework, Sql**
 
-- 👨‍💻 Mis mejores projectos [https://github.com/NixonAmado/NixonAmado.github.io](https://github.com/NixonAmado/NixonAmado.github.io)
+- 👨‍💻 Mis mejores projectos [[https://github.com/NixonAmado/NixonAmado.github.io](https://github.com/NixonAmado/Portafolio)](aquí)
 
 - 💬 Pregúntame acerca de **Css, Html, Bootstrap, Javascript, Python**
 
