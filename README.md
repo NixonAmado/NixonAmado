@@ -7,7 +7,7 @@
   </a>
 </p>
 
-- 🌱 Backend junior en proceso: **C#,.Net, EntityFramework, Sql**
+- 🌱 Backend junior en proceso: **C#,.Net, Asp.Net, EntityFramework, Sql, Linq**
 
 - 👨‍💻 Mis mejores proyectos [aquí](https://github.com/NixonAmado/Portafolio)
 
@@ -15,18 +15,18 @@
 
 - 📫 Cómo contactarme: **NixonAmado00@gmail.com**
 
-- 📄Acerca de Mí : Desarrollador entusiasta en constante crecimiento. Actualmente, me encuentro en la fase inicial de mi carrera como Backend Junior, enfocado en tecnologías como C#, .NET, Entity Framework y SQL. Actualmente, estoy ampliando mis habilidades en el entorno educativo de Campus, especializado en formar a futuros líderes tecnológicos. Mi enfoque no solo se limita a la tecnología; me apasiona aprender de las personas y aprovechar al máximo cada oportunidad.
+- 📄Acerca de Mí : **Desarrollador entusiasta en constante crecimiento. Actualmente, me encuentro en la fase inicial de mi carrera como Backend Junior, enfocado en tecnologías como C#, .NET, Entity Framework y SQL, Ademas, estoy ampliando mis habilidades en el entorno educativo de Campus, especializado en formar a futuros líderes tecnológicos. Mi enfoque no solo se limita a la tecnología; me apasiona aprender de las personas y aprovechar al máximo cada oportunidad.**
   
-- ⚡ Dato curioso: Además de mi amor por la programación, tengo una fuerte inclinación hacia el fútbol y la habilidad de extraer conocimientos valiosos de las personas que me rodean.
+- ⚡ Dato curioso: **Además de mi amor por la programación, tengo una fuerte inclinación hacia el fútbol y la habilidad de extraer conocimientos valiosos de las personas que me rodean.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contactame:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/www.linkedin.com/in/nixonamadodev" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/nixonamadodev" height="30" width="40" />
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Lenguajes y herramientas:</h3>
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
