@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nixon Amado</h1>
+<h1 align="center">Hola 👋, Soy Nixon Amado</h1>
 <h3 align="center">Backend Junior</h3>
 
 <p align="left">
@@ -15,9 +15,9 @@
 
 - 📫 Cómo contactarme: **NixonAmado00@gmail.com**
 
-- 📄 Acerca de mis experiencias: **Mi pasión por la programación comenzó a mis 14 años, donde aprendí Python y Django. Por diversas circunstancias, terminé enfocándome en el desarrollo frontend con js, olvidando lo aprendido con Django. Actualmente estoy estudiando en Campus, un sitio especializado en formar "campers" en habilidades tecnológicas y competencias del mañana.**
-
-- ⚡ Dato curioso: **Me gusta mucho el fútbol y sacarle provecho a las personas aprendiendo lo máximo de ellas.**
+- 📄Acerca de Mí : Desarrollador entusiasta en constante crecimiento. Actualmente, me encuentro en la fase inicial de mi carrera como Backend Junior, enfocado en tecnologías como C#, .NET, Entity Framework y SQL. Actualmente, estoy ampliando mis habilidades en el entorno educativo de Campus, especializado en formar a futuros líderes tecnológicos. Mi enfoque no solo se limita a la tecnología; me apasiona aprender de las personas y aprovechar al máximo cada oportunidad.
+  
+- ⚡ Dato curioso: Además de mi amor por la programación, tengo una fuerte inclinación hacia el fútbol y la habilidad de extraer conocimientos valiosos de las personas que me rodean.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
