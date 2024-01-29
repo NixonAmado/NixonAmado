@@ -63,13 +63,34 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nixonamado&show_icons=true&locale=en" alt="nixonamado" /></p>
 
 
-<h3 align="left">insignias AWS</h3>
+<h3 align="left">AWS Badges </h3>
 <p align="left">
-<a href="https://imgur.com/5ghUt9b" target="_blank" rel="noreferrer">
-  <img src="https://i.imgur.com/5ghUt9b.png" title="source: imgur.com"  width="150" height="150" />
+<a href="https://www.credly.com/badges/7393beef-cbf0-438e-b5a0-0ed60496348b/public_url" target="_blank" rel="noreferrer">
+  <img src="https://i.imgur.com/5ghUt9b.png" title="source: cloud 101"  width="150" height="150" />
 </a>
 
-<a href="https://imgur.com/SlyYJTp" target="_blank" rel="noreferrer">
-  <img src="https://i.imgur.com/SlyYJTp.png" title="source: imgur.com"  width="150" height="150" />
+<a href="https://www.credly.com/badges/82487793-c440-446b-bbbf-94b9dda0d360/public_url" target="_blank" rel="noreferrer">
+  <img src="https://i.imgur.com/SlyYJTp.png" title="source: Getting started with storage"  width="150" height="150" />
 </a>
+<a href="https://www.credly.com/badges/6eac441b-df0d-42e7-95db-a969e3a3431b/public_url" target="_blank" rel="noreferrer">
+  <img src="https://i.imgur.com/bG9pYQV.png" title="source: Getting started with databases"  width="150" height="150" />
+</a>
+
+<a href="https://www.credly.com/badges/db3c7a04-e0b3-4bc2-a2a2-41e2de9ce907/public_url" target="_blank" rel="noreferrer">
+  <img src="https://i.imgur.com/bBHthVs.png" title="source: Getting started with compute"  width="150" height="150" />
+</a>
+
+<a href="https://www.credly.com/badges/9776aa05-2301-4b6b-8ec3-ace3f18341e6/public_url" target="_blank" rel="noreferrer">
+  <img src="https://i.imgur.com/FJGK4qh.png" title="source: Getting started with cloud operations"  width="150" height="150" />
+</a>
+</p>
+<h3 align="left">AWS Skill Builder certifications</h3>
+<p align="left">
+<a href="https://explore.skillbuilder.aws/learn/course/18443/aws-skill-builder-learner-guide" target="_blank" rel="noreferrer">
+  <img src="https://i.imgur.com/gfaZYE8.png" title="source: Skill builder learner guide"  width="200" height="150" />
+</a>
+<a href="https://explore.skillbuilder.aws/learn/course/18443/aws-skill-builder-learner-guide" target="_blank" rel="noreferrer">
+  <img src="https://i.imgur.com/BYWdfpW.png" title="source: Skill builder tool .Net workloads"  width="200" height="150" />
+</a>
+
 </p>
