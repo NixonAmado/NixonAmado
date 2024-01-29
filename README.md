@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Soy Nixon Amado</h1>
 <h3 align="center">Backend Junior</h3>
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=nixonamado" alt="nixonamado" />
   </a>
@@ -25,7 +25,6 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/nixonamadodev" height="30" width="40" />
   </a>
 </p>
-
 <h3 align="left">Lenguajes y herramientas:</h3>
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
@@ -60,6 +59,17 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nixonamado&show_icons=true&locale=en&layout=compact" alt="nixonamado" /></p>
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nixonamado&show_icons=true&locale=en&layout=compact" alt="nixonamado" height="195" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nixonamado&show_icons=true&locale=en" alt="nixonamado" /></p>
+
+
+<h3 align="left">insignias AWS</h3>
+<p align="left">
+<a href="https://imgur.com/5ghUt9b" target="_blank" rel="noreferrer">
+  <img src="https://i.imgur.com/5ghUt9b.png" title="source: imgur.com"  width="150" height="150" />
+</a>
+
+<a href="https://imgur.com/SlyYJTp" target="_blank" rel="noreferrer">
+  <img src="https://i.imgur.com/SlyYJTp.png" title="source: imgur.com"  width="150" height="150" />
+</a>
+</p>
