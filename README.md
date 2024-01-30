@@ -7,22 +7,26 @@
   </a>
 </p>
 
-- 🌱 Backend junior en proceso: **C#,.Net, Asp.Net, EntityFramework, Sql, Linq**
+- 🌱 Stack principal Backend: **.Net, C#, Asp.Net, EntityFramework, MySql, Linq**
 
 - 👨‍💻 Mis mejores proyectos [aquí](https://github.com/NixonAmado/Portafolio)
 
-- 💬 Pregúntame acerca de: **Css, Html, Bootstrap, Javascript, Python**
+- 💬 Paradigmas de programación: **OOP(principal) con .Net, FP con Node.js**
 
 - 📫 Cómo contactarme: **NixonAmado00@gmail.com**
 
-- 📄Acerca de Mí : **Desarrollador entusiasta en constante crecimiento. Actualmente, me encuentro en la fase inicial de mi carrera como Backend Junior, enfocado en tecnologías como C#, .NET, Entity Framework y SQL, Ademas, estoy ampliando mis habilidades en el entorno educativo de Campus, especializado en formar a futuros líderes tecnológicos. Mi enfoque no solo se limita a la tecnología; me apasiona aprender de las personas y aprovechar al máximo cada oportunidad.**
+- 📄Acerca de Mí : **Desarrollador entusiasta en constante crecimiento. Actualmente, me encuentro en la fase inicial de mi carrera como Backend Junior, enfocado en tecnología .NET, Ademas, estoy ampliando mis habilidades en el entorno educativo de Campus, especializado en formar a futuros líderes tecnológicos. Mi enfoque no solo se limita a la tecnología; me apasiona aprender de las personas y aprovechar al máximo cada oportunidad.**
   
 - ⚡ Dato curioso: **Además de mi amor por la programación, tengo una fuerte inclinación hacia el fútbol y la habilidad de extraer conocimientos valiosos de las personas que me rodean.**
-
+- 📚 Proximos estudios: **En mi aprendizaje a corto plazo deseo compactar mi conocimiento en AWS enfocandome en uso de .Net, ademas, actualmente estoy haciendo un curso certificado sobre Dispositivos de Red y Configuración Inicial impartido por Cisco y financiado por The hamburger University, un programa de formación diseñado por mc'donalds en su apoyo a la formación de los futuros líderes tecnológicos. **
+- 🎓 Aspiraciones profesionales: **Mi mayor ambición profesional es convertirme en un  excelente ingeniero en ciberseguridad y aportar mi creciente conocimiento en redes para brindar las mejores estrategias de seguridad informatica. Para mí, es un echo que se hará realidad en 6 años.**
 <h3 align="left">Contactame:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/nixonamadodev/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/nixonamadodev" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/nixonamadodev" height="40" width="50" />
+  </a>
+  <a href="https://www.credly.com/users/nixon-stiven-amado-hernandez" target="_blank">
+    <img align="center" src="https://images.credly.com/size/340x340/images/32d4008d-1fa0-4a79-8375-4857b0306dc5/blob.png" alt="www.credly.com/nixonAmado" height="40" width="70" />
   </a>
 </p>
 <h3 align="left">Lenguajes y herramientas:</h3>
@@ -56,6 +60,16 @@
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://aws.amazon.com/es/" target="_blank" rel="noreferrer">
+    <img src="https://s32860.pcdn.co/wp-content/uploads/2018/08/23212950/AWS_icons-04.png" alt="AWS" width="40" height="40"/>
+  </a>
+  <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
+    <img src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-icon-logo-png-transparent.png" alt="Node JS" width="40" height="40"/>
+  </a>
+  
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/87351/express-js.png" alt="Express JS" width="40" height="40"/>
   </a>
 </p>
 
