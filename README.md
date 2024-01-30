@@ -100,10 +100,10 @@
 </p>
 <h3 align="left">AWS Skill Builder certifications</h3>
 <p align="left">
-<a href="https://explore.skillbuilder.aws/learn/course/18443/aws-skill-builder-learner-guide" target="_blank" rel="noreferrer">
+<a href="https://i.imgur.com/gfaZYE8.png" target="_blank" rel="noreferrer">
   <img src="https://i.imgur.com/gfaZYE8.png" title="source: Skill builder learner guide"  width="200" height="150" />
 </a>
-<a href="https://explore.skillbuilder.aws/learn/course/18443/aws-skill-builder-learner-guide" target="_blank" rel="noreferrer">
+<a href="https://i.imgur.com/BYWdfpW.png" target="_blank" rel="noreferrer">
   <img src="https://i.imgur.com/BYWdfpW.png" title="source: Skill builder tool .Net workloads"  width="200" height="150" />
 </a>
 
