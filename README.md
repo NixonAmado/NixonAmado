@@ -77,8 +77,13 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nixonamado&show_icons=true&locale=en" alt="nixonamado" /></p>
 
 
-<h3 align="left">AWS Badges </h3>
+<h3 align="left">Badges</h3>
 <p align="left">
+  
+<a href="https://www.credly.com/badges/4eb099d0-d04b-4a3a-a445-91d72703f718/public_url" target="_blank" rel="noreferrer">
+  <img src="https://i.imgur.com/uuPuFar.png" title="source: Networking"  width="130" height="130" />
+</a>
+
 <a href="https://www.credly.com/badges/7393beef-cbf0-438e-b5a0-0ed60496348b/public_url" target="_blank" rel="noreferrer">
   <img src="https://i.imgur.com/5ghUt9b.png" title="source: cloud 101"  width="150" height="150" />
 </a>
