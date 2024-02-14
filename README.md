@@ -1,5 +1,5 @@
-<h1 align="center">Hola 👋, Soy Nixon Amado</h1>
-<h3 align="center">Backend Junior</h3>
+<h1 align="center">Hey 👋, I'm Nixon Amado</h1>
+<h3 align="center">FullStack Junior</h3>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -7,20 +7,23 @@
   </a>
 </p>
 
-- 🌱 Stack principal Backend: **.Net, C#, Asp.Net, EntityFramework, MySql, Linq**
+- 🌱 Main Backend Stack: **.Net, C#, Asp.Net, EntityFramework, MySql, Linq**
 
-- 👨‍💻 Mis mejores proyectos [aquí](https://github.com/NixonAmado/Portafolio)
+- 👨‍💻 my best projects [aquí](https://github.com/NixonAmado/Portafolio)
 
-- 💬 Paradigmas de programación: **OOP(principal) con .Net, FP con Node.js**
+- 💬 programming paradigms: **OOP(main) with .Net , FP with Node.js**
 
-- 📫 Cómo contactarme: **NixonAmado00@gmail.com**
+- 📫 How get in touch with me: **NixonAmado00@gmail.com**
 
-- 📄Acerca de Mí : **Desarrollador entusiasta en constante crecimiento. Actualmente, me encuentro en la fase inicial de mi carrera como Backend Junior, enfocado en tecnología .NET, Ademas, estoy ampliando mis habilidades en el entorno educativo de Campus, especializado en formar a futuros líderes tecnológicos. Mi enfoque no solo se limita a la tecnología; me apasiona aprender de las personas y aprovechar al máximo cada oportunidad.**
-  
-- ⚡ Dato curioso: **Además de mi amor por la programación, tengo una fuerte inclinación hacia el fútbol y la habilidad de extraer conocimientos valiosos de las personas que me rodean.**
-- 📚 Proximos estudios: **En mi aprendizaje a corto plazo deseo compactar mi conocimiento en AWS enfocandome en uso de .Net, ademas, actualmente estoy haciendo un curso certificado sobre Dispositivos de Red y Configuración Inicial impartido por Cisco y financiado por The hamburger University, un programa de formación diseñado por mc'donalds en su apoyo a la formación de los futuros líderes tecnológicos.**
-- 🎓 Aspiraciones profesionales: **Mi mayor ambición profesional es convertirme en un  excelente ingeniero en ciberseguridad y aportar mi creciente conocimiento en redes para brindar las mejores estrategias de seguridad informatica. Para mí, es un echo que se hará realidad en 6 años.**
-<h3 align="left">Contactame:</h3>
+- 📄About Me : **Hello Everyone👋, I'm a person who is always in search of knowledge, and I see in the world of the internet an infinite learning opportunity that will help me to achieve all my wishes successfully. I like challenges and I see in programming a chance to challenge myself and have a personal and professional growth. ¡ the harder the challenge, the more i relish it !**
+-   
+- ⚡ Fun fact: **Besides my love for programming, I have a strong inclination towards soccer that helps me to clear my mind and above all to keep a good physical, social and psychological health. Reading is another one of my hobbies, I like to escape from reality and immerse myself in all kinds of worlds..**
+- 
+- 📚 Upcoming studies: **In my short-term learning, I wish to consolidate my knowledge in AWS focusing on using .Net. Also, I’d like to take advantage of the infinite knowledge that I could find on the internet, to practice and enhance my networking insights, and one day get certified in CCNA.**
+
+🎓 Professional aspirations: **My biggest professional ambition is to become an excellent cybersecurity engineer and contribute my growing knowledge in networks to provide the best information security strategies.**
+
+<h3 align="left">Contact me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/nixonamadodev/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/nixonamadodev" height="40" width="50" />
@@ -29,7 +32,7 @@
     <img align="center" src="https://images.credly.com/size/340x340/images/32d4008d-1fa0-4a79-8375-4857b0306dc5/blob.png" alt="www.credly.com/nixonAmado" height="40" width="70" />
   </a>
 </p>
-<h3 align="left">Lenguajes y herramientas:</h3>
+<h3 align="left">Lenguages and tools:</h3>
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
