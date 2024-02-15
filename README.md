@@ -7,21 +7,21 @@
   </a>
 </p>
 
-- 🌱 Main Backend Stack: **.Net, C#, Asp.Net, EntityFramework, MySql, Linq**
+- 🌱 **Main Backend Stack:** .Net, C#, Asp.Net, EntityFramework, MySql, Linq
 
-- 👨‍💻 my best projects [aquí](https://github.com/NixonAmado/Portafolio)
+- 👨‍💻 **my best projects [here](https://github.com/NixonAmado/Portafolio)**
 
-- 💬 programming paradigms: **OOP(main) with .Net , FP with Node.js**
+- 💬 **programming paradigms:** OOP(main) with .Net , FP with Node.js
 
-- 📫 How get in touch with me: **NixonAmado00@gmail.com**
+- 📫 **How get in touch with me:** NixonAmado00@gmail.com
 
-- 📄About Me : **Hello Everyone👋, I'm a person who is always in search of knowledge, and I see in the world of the internet an infinite learning opportunity that will help me to achieve all my wishes successfully. I like challenges and I see in programming a chance to challenge myself and have a personal and professional growth. ¡ the harder the challenge, the more i relish it !**
--   
-- ⚡ Fun fact: **Besides my love for programming, I have a strong inclination towards soccer that helps me to clear my mind and above all to keep a good physical, social and psychological health. Reading is another one of my hobbies, I like to escape from reality and immerse myself in all kinds of worlds..**
-- 
-- 📚 Upcoming studies: **In my short-term learning, I wish to consolidate my knowledge in AWS focusing on using .Net. Also, I’d like to take advantage of the infinite knowledge that I could find on the internet, to practice and enhance my networking insights, and one day get certified in CCNA.**
+- 📄**About Me:** Hello Everyone👋, I'm a person who is always in search of knowledge, and I see in the world of the internet an infinite learning opportunity that will help me to achieve all my wishes successfully. I like challenges and I see in programming a chance to challenge myself and have a personal and professional growth. ¡ the harder the challenge, the more i relish it !
+  
+- ⚡ **Fun fact:** Besides my love for programming, I have a strong inclination towards soccer that helps me to clear my mind and above all to keep a good physical, social and psychological health. Reading is another one of my hobbies, I like to escape from reality and immerse myself in all kinds of worlds..
+  
+- 📚 **Upcoming studies:** In my short-term learning, I wish to consolidate my knowledge in AWS focusing on using .Net. Also, I’d like to take advantage of the infinite knowledge that I could find on the internet, to practice and enhance my networking insights, and one day get certified in CCNA.
 
-🎓 Professional aspirations: **My biggest professional ambition is to become an excellent cybersecurity engineer and contribute my growing knowledge in networks to provide the best information security strategies.**
+🎓 **Professional aspirations:** My biggest professional ambition is to become an excellent cybersecurity engineer and contribute my growing knowledge in networks to provide the best information security strategies.
 
 <h3 align="left">Contact me:</h3>
 <p align="left">
