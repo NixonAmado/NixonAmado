@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Nixon Amado</h1>
-<h3 align="center">FullStack Junior</h3>
+<h3 align="center">Backend Junior</h3>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
