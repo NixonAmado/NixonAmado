@@ -21,7 +21,7 @@
   
 - 📚 **Upcoming studies:** In my short-term learning, I wish to consolidate my knowledge in AWS focusing on using .Net. Also, I’d like to take advantage of the infinite knowledge that I could find on the internet, to practice and enhance my networking insights, and one day get certified in CCNA.
 
-🎓 **Professional aspirations:** My biggest professional ambition is to become an excellent cybersecurity engineer and contribute my growing knowledge in networks to provide the best information security strategies.
+- 🎓 **Professional aspirations:** My biggest professional ambition is to become an excellent cybersecurity engineer and contribute my growing knowledge in networks to provide the best information security strategies.
 
 <h3 align="left">Contact me:</h3>
 <p align="left">
