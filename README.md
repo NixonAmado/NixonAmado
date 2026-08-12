@@ -1,12 +1,5 @@
 <h1 align="center">Hey 👋, I'm Nixon Amado</h1>
-<h3 align="center">Backend Junior</h3>
-
-<p align="center">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=nixonamado&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
-
-
-
+<h3 align="center">Backend Developer</h3>
 
 - 🌱 **Main Backend Stack:** .Net, C#, Asp.Net, EntityFramework, MySql, Linq
 
