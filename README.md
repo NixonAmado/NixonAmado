@@ -2,8 +2,11 @@
 <h3 align="center">Backend Junior</h3>
 
 <p align="center">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=nixonamado&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=nixonamado" alt="GitHub Profile Trophy" />
+  </a>
 </p>
+
 
 
 - 🌱 **Main Backend Stack:** .Net, C#, Asp.Net, EntityFramework, MySql, Linq
